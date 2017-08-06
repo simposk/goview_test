@@ -1,0 +1,67 @@
+<section id="home">
+    <h1>Go and enjoy the view</h1>
+    <a ng-click="isReplyFormOpen = !isReplyFormOpen"><i class="fa fa-play" aria-hidden="true"></i></a>
+</section>
+
+<section class="video-canvas" ng-show="isReplyFormOpen">
+    <a ng-click="isReplyFormOpen = !isReplyFormOpen; mc.pauseVideoOnModalClose()" title="Close"><i class="fa fa-close" aria-hidden="true"></i></a>
+    <div class="video-popup">
+       <iframe id="video-player" width="560" height="315" src="https://www.youtube.com/embed/ZpHbnwgHE6s" frameborder="0" allowfullscreen></iframe>
+    </div>
+</section>
+
+
+<section id="intro" class="container">
+    <p class="subheading">Sole idea is to inspire, create and share the unlimited posibilities of virtual reality technology.</p>
+    <hr>
+</section>
+<section id="journey" class="container">
+    <div class="journey-desc">
+        <div class="fixed-height">
+            <div class="align-vertical">
+                <p class="journey-title">Your journey starts here.</p>
+                <p class="p-type">
+                    Now you can know everything you want about virtual reality. We communicate and create community directly. Anyone willing to be a part of this community - come, try and create your own vision of the world.
+                </p>
+                <a href="/events">Find event</a>
+            </div>
+        </div>
+    </div>
+    <img src="/../dist/img/google_cardboard.png" alt="Google cardboard"/>
+</section>
+<section id="join-us" class="container">
+    <div class="join-us-desc">
+        <div class="fixed-height">
+            <div class="align-vertical">
+                <p class="join-us-title">Be a part of the future.</p>
+                <p class="p-type">
+                    If you like to make small miracles happen then you should like to become a part of our already talented team. It is a chance that together we are going to bring incredible life.
+                </p>
+                <a href="/volunteer">Join us</a>
+            </div>
+        </div>
+    </div>
+    <img src="/../dist/img/volunteer.png" alt="Google cardboard"/>
+</section>
+<section id="download" class="container">
+    <h1>Lets create view.</h1>
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.google.android.street">
+        <div class="first-box">
+            <img src="/../dist/img/google_street_view.png">
+            <div class="application-name">
+                <p>Google Street View</p>
+                <span>download</span>
+            </div>
+        </div>
+    </a>
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.google.vr.cyclops">
+        <div class="second-box">
+            <img src="/../dist/img/google_cardboard_camera.png">
+            <div class="application-name">
+                <p>Cardboard Camera</p>
+                <span>download</span>
+            </div>
+        </div>
+    </a>
+</section>
+

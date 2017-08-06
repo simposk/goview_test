@@ -1,0 +1,103 @@
+[
+	{
+        "id": "1",
+        "title": "Plungės Saulės gymnasium",
+        "data": "February the 13th",
+        "place": "Birutės street 25B, Plungė city, Lithuania",
+        "mapLink": "https://goo.gl/maps/FppHKVixKPE2",
+        "about": "Project began in Plunges city “Saulės” gymnasium. We invited students from 10th. grade to a lecture about technologies, virtual reality and creation of smartphone applications. They were left amazed after using Google cardboard for the first time, during the presentation we made students first photo session using Google “street view” application. Also groups of students were invited to presented their own smartphone application and virtual reality platform usage ideas. After revealing we are giving one Google cardboard and a book “The secrets to app success on Google Play” to their school students did not hide their excitement. Before leaving students promised to us, that it was only a beginning to their virtual reality journey.",
+        "photoAddress": "plunges_saules_gymnasium",
+        "photoList": 7,
+        "status": "past"
+    },
+    {
+        "id": "2",
+         "title": "Telšių Džiugo gymnasium",
+        "data": "February the 15th",
+        "place": "Sedos street 29, Telšiai, Lithuania",
+        "mapLink": "https://goo.gl/maps/GY2hmPcJyP22",
+        "about": "Time spent there was truly unforgettable. We spoke with students from various grades for more than two hours. More than two hundred attendees were present in a lecture where we discussed about various global problems that virtual reality could help us to fix. We gave Google cardboard and books “The secrets to app success on Google Play” to president of the school and got a promise that everyone wanting could use them during breaks between classes, also conversation with school director gave us hope that in future virtual reality would be integrated into school and its learning programme.",
+        "photoAddress": "telsiu_dziugo_gymnasium",
+        "photoList": 11,
+        "status": "past"
+    },
+	{
+        "id": "3",
+        "title": "Kalvarijos Motiejaus Valančiaus gymnasium",
+        "data": "March the 2th",
+        "place": "Gluosnių alley 1, Žemaičių Kalvarija, Lithuania",
+        "mapLink": "https://goo.gl/maps/JCaKKDh6rM62",
+		"about": "This school wants to change. Students have opportunity to hear about new technologies and virtual reality. They tried Google cardboard and they were very excited to travel around the world while being in the classroom. After their virtual journey I have interviewed teachers and promised them to come back here and extend my already started work.",
+		"photoAddress": "kalvarijos_motiejaus_valanciaus_gymnasium",
+		"photoList": 13,
+        "status": "past"  
+    },
+    {
+        "id": "4",
+        "title": "Telšių Borisevičiaus gymnasium",
+        "data": "Soon",
+        "place": "Sedos g. 10",
+        "mapLink": "https://goo.gl/maps/b1cPcD3x7gA2",
+        "about": "Soon",
+        "photoAddress": "telsiu_boriseviciaus_gymnasium",
+        "photoList": 0,
+        "status": "comming"
+    },
+    {
+        "id": "5",
+        "title": "Mažeikių Gabijos gymnasium",
+        "data": "Soon",
+        "place": "",
+        "mapLink": "https://goo.gl/maps/JJrxYqTQVXq",
+        "status": "comming"
+    },
+    {
+        "id": "6",
+        "title": "Kuršėnų Lauryno Ivinskio gymnasium",
+        "data": "Soon",
+        "place": "",
+        "mapLink": "https://goo.gl/maps/81PqB9MLwEB2",
+        "status": "comming"
+    },
+    {
+        "id": "7",
+        "title": "Sedos Vytauto Mačernio gymnasium",
+        "data": "May the 15th",
+        "place": "Dariaus ir Girėno g. 16",
+        "mapLink": "https://goo.gl/maps/QZw88sfeLvx",
+		"about": "Soon",
+		"photoAddress": "sedos_vytauto_macernio_gymnasium",
+        "photoList": 6,
+        "status": "past"  
+    },
+    {
+        "id": "8",
+        "title": "Palangos senoji gymnasium",
+        "data": "May the 16th",
+        "place": "Jūratės g. 13",
+        "mapLink": "https://goo.gl/maps/6L7QuquhofE2",
+		"about": "Soon",
+        "photoAddress": "palangos_senoji_gymnasium",
+        "photoList": 11,
+        "status": "past"  
+    },
+	{
+        "id": "9",
+        "title": "Telšių Žemaitės gymnasium",
+        "data": "May the 18th",
+        "place": "Šviesos g. 15",
+        "mapLink": "https://goo.gl/maps/AzL6oDg9CtG2",
+		"about": "Soon",
+		"photoAddress": "telsiu_zemaites_gymnasium",
+        "photoList": 8,
+        "status": "past"
+    },
+    {
+        "id": "10",
+        "title": "Varnių Motiejaus Valančiaus gymnasium",
+        "data": "Soon",
+        "place": "",
+        "mapLink": "https://goo.gl/maps/4ZtBvpuV1rH2",
+        "status": "comming"  
+    }
+]

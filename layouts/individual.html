@@ -1,0 +1,26 @@
+<section id="individual">
+    <div class="nav-background"></div>
+    <div class="container information">
+        <h1>{{ individual.event.title }}</h1>
+        <p class="data p-type"><b>Data:</b> {{ individual.event.data }}</p>
+        <p class="place p-type"><b>Place:</b>
+            <a ng-href="{{ individual.event.mapLink}}" target="_blank" class="map-link">{{ individual.event.place }}</a>
+        </p>
+        <p class="about p-type"><b>About:</b> {{ individual.event.about }}</p>
+    </div>
+	<div>
+	<section id="gallery" class="container">
+		<ul>
+			<li ng-repeat="photo in individual.photosArray">
+				<a ng-href="{{ photo.src }}" target="_parent" data-lightbox="gymnasium-gallery" data-title="{{photo.name}}">
+                    <img ng-src="{{ photo.src }}" alt="{{ photo.name }}">
+                </a>
+			</li>
+		</ul>
+	</section>
+	</div>
+    <section id="intro" class="container">
+        <p class="subheading">More information soon...</p>
+        <hr>
+    </section>
+</section>

@@ -1,0 +1,22 @@
+<div class="nav-background"></div>
+<section id="events" class="container">
+    <p class="past-title">Past events</p>
+    <div class="event" ng-repeat="event in events.past">
+        <a href="/events/{{event.id}}">
+            <p>{{event.title}}</p>
+            <p class="event-data">{{event.data}}</p>
+        </a>
+    </div>
+    <p class="upcomming-title">Upcomming events</p>
+    <div class="event" ng-repeat="event in events.upcomming">
+        <div class="upcomming-event-box">
+            <p>{{event.title}}</p>
+            <p class="event-data">{{event.data}}</p>
+            <a ng-href="{{ event.mapLink }}" class="map-link" target="_blank">View in map</a>
+        </div>
+    </div>
+</section>
+<!--<section>
+    <h1>{{ 'TITLE' | translate }}</h1>
+    <p>{{ 'FOO' | translate }}</p>
+</section>-->

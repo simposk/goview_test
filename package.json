@@ -1,0 +1,26 @@
+{
+  "name": "go-view-frontend",
+  "version": "0.1.0",
+  "devDependencies": {
+    "angular-translate": "^2.13.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jquery": "^3.1.1",
+    "jshint-stylish": "^2.2.1",
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.2",
+    "angular-route": "^1.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
